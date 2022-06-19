@@ -1,0 +1,4 @@
+src/app/code/community/Atwix/*                             app/code/community/Atwix/
+src/app/design/adminhtml/default/default/template/atwix_archiveproduct/*  app/design/adminhtml/default/default/template/atwix_archiveproduct/
+src/app/etc/modules/*                                      app/etc/modules/
+lib/*                                                  lib/

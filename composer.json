@@ -1,0 +1,6 @@
+{
+    "name": "atwix/archive_products",
+    "description": "Magento Extension for product archival",
+    "license": "tobedefined",
+    "type": "magento-module"
+}
